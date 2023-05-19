@@ -1,3 +1,5 @@
+Dependencias do Prisma
+
 npx install prisma --save-dev
 
 npx prisma init --datasource-provider mysql
